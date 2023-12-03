@@ -1,3 +1,5 @@
+jupyterlab
+nbclient
+pandas
 bardapi
-requests
 
