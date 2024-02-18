@@ -1,3 +1,9 @@
+
+- Dare to dream
+- Ignite your inspiration and innovation
+- Strive for excellence
+- Explore together & unlock the world's knowledge
+
 # VisualNews-GenAI
 Transforming the most recent news into visual content with GenAI.
 
